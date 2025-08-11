@@ -26,13 +26,7 @@
 
 ## Featured Projects
 <p align="center">
-  <a href="https://github.com/ThabisoM7/your-repo-1" target="_blank" rel="noopener">
-    <img alt="Project 1" src="https://img.shields.io/badge/Project1-Java-9C6ADE?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ThabisoM7/your-repo-2" target="_blank" rel="noopener">
-    <img alt="Project 2" src="https://img.shields.io/badge/Project2-Python-6B4E9B?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ThabisoM7/your-repo-3" target="_blank" rel="noopener">
+  <a href="https://github.com/ThabisoM7/C2-SERVER-FORENSIC-ANALYSIS" target="_blank" rel="noopener">
     <img alt="Project 3" src="https://img.shields.io/badge/Project3-C++-5E4B8B?style=for-the-badge" />
   </a>
 </p>
