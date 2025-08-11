@@ -27,7 +27,7 @@
 ## Featured Projects
 <p align="center">
   <a href="https://github.com/ThabisoM7/C2-SERVER-FORENSIC-ANALYSIS" target="_blank" rel="noopener">
-    <img alt="Project 3" src="https://img.shields.io/badge/Project3-C++-5E4B8B?style=for-the-badge" />
+    <img alt="C2 SERVER FORENSIC ANALYSIS" src="https://img.shields.io/badge/C2 SERVER FORENSIC ANALYSIS-C++-5E4B8B?style=for-the-badge" />
   </a>
 </p>
 
