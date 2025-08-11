@@ -1,8 +1,8 @@
 <!-- Profile Banner -->
-![Banner](https://your-image-link.com/professional-purple-banner.png)
+![Banner](https://github.com/ThabisoM7/ThabisoM7/blob/main/wesley-ford-biBRoGc7ir0-unsplash.jpg)
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9C6ADE&center=true&vCenter=true&width=700&lines=Hi!+I'm+ThabisoM7;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9C6ADE&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thabiso;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems)](https://git.io/typing-svg)
 
 ---
 
