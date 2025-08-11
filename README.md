@@ -8,8 +8,6 @@
 
 ---
 
-[![Repo 1](https://img.shields.io/badge/Repo1-Java-blue)](https://github.com/ThabisoM7/C2-SERVER=FORENSIC-ANALYSIS)
-
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-9C6ADE?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-6B4E9B?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,6 +21,21 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThabisoM7&show_icons=true&theme=transparent&title_color=9C6ADE&icon_color=9C6ADE&text_color=9C9C9C)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThabisoM7&layout=compact&theme=transparent&title_color=9C6ADE&text_color=9C9C9C)
+
+---
+
+## Featured Projects
+<p align="center">
+  <a href="https://github.com/ThabisoM7/your-repo-1" target="_blank" rel="noopener">
+    <img alt="Project 1" src="https://img.shields.io/badge/Project1-Java-9C6ADE?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ThabisoM7/your-repo-2" target="_blank" rel="noopener">
+    <img alt="Project 2" src="https://img.shields.io/badge/Project2-Python-6B4E9B?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ThabisoM7/your-repo-3" target="_blank" rel="noopener">
+    <img alt="Project 3" src="https://img.shields.io/badge/Project3-C++-5E4B8B?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
