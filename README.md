@@ -4,6 +4,12 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=ThabisoM7&label=Profile%20views&color=6f42c1&style=flat)
+
+---
+
+[![Repo 1](https://img.shields.io/badge/Repo1-Java-blue)](https://github.com/ThabisoM7/C2-SERVER=FORENSIC-ANALYSIS)
+
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-9C6ADE?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-6B4E9B?style=for-the-badge&logo=c-sharp&logoColor=white)
