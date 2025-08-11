@@ -20,11 +20,6 @@
 
 ---
 
-## 🐍 Snake Contributions
-![Snake animation](https://github.com/ThabisoM7/ThabisoM7/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9C6ADE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6B4E9B?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
