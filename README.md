@@ -1,12 +1,8 @@
-<!-- Banner: Replace with your own -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThabisoM7/ThabisoM7/main/tech-banner.png" alt="Profile Banner" width="100%" />
-</p>
 
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+ThabisoM7;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+ThabisoM7;I am a Systems+Programmer;I am a Security+Analyst;Building+Secure+and+Efficient+Systems" alt="Typing SVG" />
   </a>
 </p>
 
