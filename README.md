@@ -32,7 +32,7 @@ I appreciate the understanding systems and how different components are intercon
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
-
+Exploring the untapped power of BlockChain and Decentralized Tech @Africa-Blockchain-Club.
 ---
 
 # Security Analyst (Ethical Hacker)
@@ -43,7 +43,7 @@ I love to break apart complex systems to find out the How and Why. I guess that 
   <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
 </p>
 
-### Security Tools
+### Security Tools:
 <p>
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
@@ -54,7 +54,7 @@ I love to break apart complex systems to find out the How and Why. I guess that 
   <img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=ghostery&logoColor=white" />
 </p>
 
-### Systems Programming
+### Systems Programming Stack:
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
