@@ -2,7 +2,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thabiso;Systems+Programmer;Security+Analyst; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thabiso;Systems+Programmer;Security+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
