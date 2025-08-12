@@ -18,12 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThabisoM7&show_icons=true&theme=transparent&title_color=9C6ADE&icon_color=9C6ADE&text_color=9C9C9C)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThabisoM7&layout=compact&theme=transparent&title_color=9C6ADE&text_color=9C9C9C)
-
----
-
 ## Featured Projects
 <p align="center">
   <a href="https://github.com/ThabisoM7/C2-SERVER-FORENSIC-ANALYSIS" target="_blank" rel="noopener">
