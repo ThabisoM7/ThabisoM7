@@ -7,11 +7,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/code1.jpg" width="100%" />
-</p>
 
-# Software Developer
+# Software Engineer
 
 ### Frontend
 <p>
