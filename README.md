@@ -28,6 +28,5 @@
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9C6ADE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6B4E9B?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-5E4B8B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9C6ADE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thabiso-mashifana-294825273)
+[![Email](https://img.shields.io/badge/Email-5E4B8B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thabisomashifana2@email.com)
