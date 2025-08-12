@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/Linux.jpg" width="100%" />
-</p>
 
 <!-- Animated Typing -->
 <p align="center">
@@ -30,14 +26,18 @@
 </p>
 
 
-### 📚 Currently Learning
+### Currently Learning
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ---
 
-# Computer Security Analyst
+# Computer Security (Ethecal Hacker)
+
+<p align="center">
+  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
+</p>
 
 ### 🔐 Security Tools
 <p>
