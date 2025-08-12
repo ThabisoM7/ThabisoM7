@@ -11,7 +11,7 @@
 # Software Developer
 
 <p align="center">
-  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/20250812_0842_3D%20Coding%20Workspace_remix_01k2eg4zh2f7t8g1qmvyd05zf2.png" width="100%" />
+  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/Bring%20Your%20Ideas%20to%20Life%20with%20Unity%20Asset%20Store.jpg" width="100%" />
 </p>
 
 ### Frontend
