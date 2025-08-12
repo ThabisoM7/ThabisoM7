@@ -7,11 +7,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/code1.jpg" width="100%" />
+</p>
 
 # Software Developer
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=624311567100397480" height="446" width="345" frameborder="0" scrolling="no" ></iframe>
-
+https://github.com/ThabisoM7/ThabisoM7/blob/main/code1.jpg
 ### Frontend
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
