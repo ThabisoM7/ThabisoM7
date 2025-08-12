@@ -11,7 +11,7 @@
 # Software Developer
 
 <p align="center">
-  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
+  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/Coder.jpg" width="100%" />
 </p>
 
 ### Frontend
