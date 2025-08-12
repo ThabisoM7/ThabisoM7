@@ -2,7 +2,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thabiso;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thabiso;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 # Software Engineer
 
-I appreciate the understanding systems and how different components are interconnected.
+I appreciate the understanding of systems and and how different components are interconnected.
 
 ### Frontend
 <p>
