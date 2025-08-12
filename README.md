@@ -37,7 +37,7 @@ I appreciate the understanding systems and how different components are intercon
 
 # Security Analyst (Ethical Hacker)
 
-I love to break apart complex systems to find out the How and Why. I guess that makes me a hacker..or a computer forensic analyst of some sort :).
+I love to break apart complex systems to find out the How and Why. I guess that makes me a hacker..or a forensic analyst of some sort :).
 
 <p align="center">
   <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
