@@ -2,13 +2,17 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+ThabisoM7;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Thabiso;Systems+Programmer;Security+Analyst;Building+Secure+and+Efficient+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-# 🖥 Software Developer
+# Software Developer
+
+<p align="center">
+  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
+</p>
 
 ### Frontend
 <p>
@@ -33,13 +37,13 @@
 
 ---
 
-# Computer Security (Ethecal Hacker)
+# Security Analyst (Ethical Hacker)
 
 <p align="center">
   <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
 </p>
 
-### 🔐 Security Tools
+### Security Tools
 <p>
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
@@ -61,7 +65,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
