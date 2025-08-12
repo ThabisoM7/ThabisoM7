@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThabisoM7/ThabisoM7/main/tech-banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/wesley-ford-biBRoGc7ir0-unsplash.jpg" alt="Profile Banner" width="100%" />
 </p>
 
 <!-- Animated Typing -->
