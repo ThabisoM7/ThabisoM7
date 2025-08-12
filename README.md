@@ -10,9 +10,7 @@
 
 # Software Developer
 
-<p align="center">
-  <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/Bring%20Your%20Ideas%20to%20Life%20with%20Unity%20Asset%20Store.jpg" width="100%" />
-</p>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=624311567100397480" height="446" width="345" frameborder="0" scrolling="no" ></iframe>
 
 ### Frontend
 <p>
