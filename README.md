@@ -10,7 +10,7 @@
 
 # Software Engineer
 
-I appreciate the understanding of systems and and how different components are interconnected.
+I appreciate the understanding of systems and how different components are interconnected.
 
 ### Frontend
 <p>
