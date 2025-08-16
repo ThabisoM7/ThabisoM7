@@ -11,6 +11,7 @@
 # Software Engineer
 
 I appreciate the understanding of systems and how different components are interconnected.
+Aspire to work in DevSecOps. Understanding business logic with the technical expertise of computer security to integrate safer and efecient workflows.
 
 ### Frontend
 <p>
