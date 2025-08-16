@@ -11,7 +11,7 @@
 # Software Engineering stack:
 
 I appreciate the understanding of systems and how different components are interconnected.
-Aspire to work in DevSecOps. Understanding the business logic with the technical expertise of computer security to integrate safer and efecient workflows.
+I aspire to work in DevSecOps. Understanding the business logic with the technical expertise of computer security to integrate safer and efecient workflows.
 
 ### Frontend
 <p>
@@ -38,7 +38,7 @@ Exploring the untapped power of BlockChain and Decentralized Tech @Africa-Blockc
 
 # Security Analyst (Ethical Hacker)
 
-I love to break apart complex systems to find out the How and Why. I guess that makes me a hacker..or a forensic analyst of some sort :).
+I spend a lot of time trying to understand why and how systems work the way they do. 
 
 <p align="center">
   <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
