@@ -11,7 +11,7 @@
 # Software Engineering stack:
 
 I appreciate the understanding of systems and how different components are interconnected.
-I aspire to work in DevSecOps. Understanding the business logic with the technical expertise of computer security to integrate safer and efecient workflows.
+I aspire to work in DevSecOps. Understanding the business logic with the technical expertise of computer security to integrate safer and effecient workflows.
 
 ### Frontend
 <p>
