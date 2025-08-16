@@ -38,7 +38,7 @@ Exploring the untapped power of BlockChain and Decentralized Tech @Africa-Blockc
 
 # Security Analyst (Ethical Hacker)
 
-I spend a lot of time trying to understand why and how systems work the way they do. 
+I spend a lot of time trying to understand why and how systems work the way they do.
 
 <p align="center">
   <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
