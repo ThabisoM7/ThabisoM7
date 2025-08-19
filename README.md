@@ -44,7 +44,7 @@ I spend a lot of time trying to understand why and how systems work the way they
   <img src="https://github.com/ThabisoM7/ThabisoM7/blob/main/ImgHack2….jpg" width="100%" />
 </p>
 
-### Security Tools:
+### Security Tools and Languages:
 <p>
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
@@ -55,7 +55,6 @@ I spend a lot of time trying to understand why and how systems work the way they
   <img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=ghostery&logoColor=white" />
 </p>
 
-### Systems Programming Stack:
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
