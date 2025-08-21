@@ -8,7 +8,7 @@
 
 ---
 
-# Software Engineering stack:
+# stack:
 
 I appreciate the understanding of systems and how different components are interconnected.
 I aspire to work in DevSecOps. Understanding the business logic with the technical expertise of computer security to integrate safer and effecient workflows.
@@ -36,7 +36,7 @@ I aspire to work in DevSecOps. Understanding the business logic with the technic
 Exploring the untapped power of BlockChain and Decentralized Tech @Africa-Blockchain-Club.
 ---
 
-# Security Analyst (Ethical Hacker)
+# Security Analyst stack:
 
 I spend a lot of time trying to understand why and how systems work the way they do.
 
